@@ -23,14 +23,21 @@ The Myo armband recognizes 5 pre-set gestures out of the box. They are:
 ![](https://github.com/neroZWX/myo-project-Aircraft-war/blob/master/images/wave-out.gif)
 ### fist
 ![](https://github.com/neroZWX/myo-project-Aircraft-war/blob/master/images/fist.gif)
-In this game,you can use gesture wave in make aircraft to left,wave out to right,double tap to pause game and use gesture finger-speared to
-use bomb.
+
+In this game,you can use gesture wave in make aircraft to left
+
+wave out to right.
+
+double tap to pause game.
+
+finger-speared to use bomb.
+
 ## Hardware used in creating the application
 1. Myo-Armbard
 
-2.Bluetooth connector
+ 2.Bluetooth connector
 
-3.A windows Laptop.
+ 3.A windows Laptop.
 ## Architecture for the solution
 For reference to how to control the main characters of the game, I refer to the official C# game code released by myo.
 For example:make game mian character  to left
@@ -45,7 +52,7 @@ if (thalmicMyo.pose == Pose.WaveIn)//If the recognition gestures are wavein then
 
             }
 ```            
-TO right:
+To right:
 ```c#
 if (thalmicMyo.pose == Pose.WaveOut)//If the recognition gestures are waveout then make right
 
