@@ -100,14 +100,14 @@ if (thalmicMyo.pose == Pose.DoubleTap) {//If the recognition gestures are double
 3.Hand gesture recognition technology has developed rapidly in recent years, from Microsoft Kinect to later LeapMotion, although the use of different technologies, but the purpose is to provide users with a good operation experience.I think Myo armband design process is from the beginning from the simple functional point of view of the layout of the sensor, with Bluetooth technology to increase the mobility of the Myo armband, and then to determine the myo armband making material, and finally to the finished design of the armband.
 
 
-##### myo armband advantages(From my perspective):
+### myo armband advantages(From my perspective):
 1.Simple and convenient operation to use the Myo armband
 
 2.Myo armband gesture controls are perfectly compatible with  PowerPoint software.
 
 3.What Myo can do is not just control PowerPoint software. Its ultimate goal is to completely replace mouse, and it can do everything, but just match the corresponding software.
 
-##### Disadvantages(From my perspective):
+### Disadvantages(From my perspective):
 1.Because the Myo armband need to read your muscle changes, you can't wear it outside your sleeve. After about half an hour's wear, users may have a little discomfort.
 
 2.There are too few software compatible with myo armband in the current software market.
