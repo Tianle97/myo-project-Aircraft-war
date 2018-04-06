@@ -87,5 +87,6 @@ if (thalmicMyo.pose == Pose.DoubleTap) {//If the recognition gestures are double
                 ExtendUnlockAndNotifyUserAction(thalmicMyo);
             }
   ```
+  
 ## Class diagram
 ![](https://github.com/neroZWX/myo-project-Aircraft-war/blob/master/classDigram.PNG)
