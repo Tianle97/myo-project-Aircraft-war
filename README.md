@@ -7,6 +7,10 @@ This project is completed by UNITY3D engine and Myo Armband. In this game, you c
 
 In this game,you can use gesture wave in make aircraft to left,wave out to right,double tap to pause game and use gesture finger-speared to
 use bomb.
+
+#### A qiuckly demonstration:
+
+![](https://github.com/neroZWX/myo-project-Aircraft-war/blob/master/demonstration.gif)
 ## what is myo armband
 The Myo armband is a gesture recognition device worn on the forearm and manufactured by Thalmic Labs. The Myo enables the user to control technology wirelessly using various hand motions. It uses a set of electromyographic (EMG) sensors that sense electrical activity in the forearm muscles, combined with a gyroscope, accelerometer and magnetometer to recognize gestures. The Myo can be used to control video games, presentations, music and visual entertainment. It differs from the Leap Motion device as it is worn rather than a 3D array of cameras that sense motion in the environment.
 ## Purpose of the application 
